@@ -1,1 +1,16 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Virtual machine files (DO NOT upload)
+*.vhd
+*.vhdx
+*.vmdk
+*.vmx
+*.iso
+
+# Logs and temp files
+*.log
+*.tmp
+
 
