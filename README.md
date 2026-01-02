@@ -49,13 +49,14 @@ DC01 AD DS Installed
 
 ## 🧰 Folder Structure
 
-active-directory-lab/
-├── screenshots/
-├── README.md
-├── LICENSE
-├── .gitignore
-└── lab-steps.md
----
+AD-Lab/
+├─ screenshots/        # Lab screenshots
+├─ notes/              # Notes and guides
+├─ scripts/            # PowerShell or batch scripts
+├─ README.md           # Project guide
+├─ LICENSE             # MIT License
+└─ .gitignore          # Files to ignore in Git
+
 
 ## 👤 Author
 **Gokah William**
