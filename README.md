@@ -40,20 +40,18 @@ Follow these steps to set up your lab environment:
 
 ### Server Setup
 **DC01 AD DS Installed**  
-![DC01 AD DS Installed](https://github.com/user-attachments/assets/70593ae7-478b-44df-b903-f629e7c4d0f3)
- 
+<img://github.com/user-attachments/assets/70593ae7-478b-44df-b903-f629e7c4d0f3 /> 
 
 ### Active Directory Users
-(<img width="790" height="502" alt=" Active Directory Users" src="https://github.com/user-attachments/assets/e20f5b22-9450-4624-a244-6e513a866c90" />
-/ADUC_Users.png)  
+<img width="790" height="502" alt=" Active Directory Users" src="https://github.com/user-attachments/assets/e20f5b22-9450-4624-a244-6e513a866c90" />
+ 
 
 ### Test User Created
-![Test User Created](<img width="761" height="539" alt="Test User Created" src="https://github.com/user-attachments/assets/e4b70656-28c0-436d-815a-da19ffbb05d3" />
-/TestUser_jdoe.png)  
+<img width="761" height="539" alt="Test User Created" src="https://github.com/user-attachments/assets/e4b70656-28c0-436d-815a-da19ffbb05d3" />
 
 ### Client Joined Domain
-![Client Joined Domain](<img width="859" height="654" alt="Client Joined Domainpng" src="https://github.com/user-attachments/assets/70296b38-1194-4d8f-ab32-d17a58c4dd8e" />
-/ClientJoined.png)  
+<img width="859" height="654" alt="Client Joined Domainpng" src="https://github.com/user-attachments/assets/70296b38-1194-4d8f-ab32-d17a58c4dd8e" />
+ 
 
 
 
