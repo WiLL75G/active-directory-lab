@@ -44,7 +44,7 @@ Follow these steps to set up your lab environment:
  
 
 ### Active Directory Users
-![Active Directory Users](<img width="790" height="502" alt=" Active Directory Users" src="https://github.com/user-attachments/assets/e20f5b22-9450-4624-a244-6e513a866c90" />
+(<img width="790" height="502" alt=" Active Directory Users" src="https://github.com/user-attachments/assets/e20f5b22-9450-4624-a244-6e513a866c90" />
 /ADUC_Users.png)  
 
 ### Test User Created
