@@ -40,8 +40,8 @@ Follow these steps to set up your lab environment:
 
 ### Server Setup
 **DC01 AD DS Installed**  
-(![DC01 AD DS Installed](https://github.com/user-attachments/assets/70593ae7-478b-44df-b903-f629e7c4d0f3)
-/DC01_ADDS_Installed.png)  
+![DC01 AD DS Installed](https://github.com/user-attachments/assets/70593ae7-478b-44df-b903-f629e7c4d0f3)
+ 
 
 ### Active Directory Users
 ![Active Directory Users](<img width="790" height="502" alt=" Active Directory Users" src="https://github.com/user-attachments/assets/e20f5b22-9450-4624-a244-6e513a866c90" />
