@@ -34,8 +34,8 @@ This is a hands-on Active Directory Domain Services (AD DS) lab for learning ent
 
 ### Server Setup
 DC01 AD DS Installed  
-(![DC01 AD DS Installed](https://github.com/user-attachments/assets/4c22841e-a849-45e7-9c77-1a2ccc959456)
-/DC01_ADDS_Installed.png)
+[DC01 AD DS Installed](https://github.com/user-attachments/assets/4c22841e-a849-45e7-9c77-1a2ccc959456)
+
 
 ### Active Directory Users
 ![AD Users](screenshots/ADUC_Users.png)
